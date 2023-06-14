@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_YOUR FAVORITE TEAMS_NewYork-Liberty</name>
+   <tag></tag>
+   <elementGuidId>075c9c50-d6b4-4e98-958d-8f98f8dc239d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.NewYork-Liberty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1303407d-a26e-457e-8b83-91b0289af7c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NewYork-Liberty</value>
+      <webElementGuid>96d3171e-9163-4d91-a542-a54bb9dc1e70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-background&quot;]/div[3]/div[@class=&quot;auth__card&quot;]/div[@class=&quot;auth__card-body&quot;]/div[@class=&quot;team-picker mb-2&quot;]/button[@class=&quot;NewYork-Liberty&quot;]</value>
+      <webElementGuid>d6c062a0-e300-4dac-a306-df0f62ba91cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/button[3]</value>
+      <webElementGuid>aa5982c0-1e3e-4fe7-80c1-4b81a9d09014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>86c6cb54-3424-4f13-9ca3-60cef4fb24dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

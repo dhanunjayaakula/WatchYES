@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8b3157e2-0081-4b0f-a773-850f1a1ce235</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Monthly Subscription&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div[2]/img[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>30f6e722-5446-4fef-b3a3-2157bf38daec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Monthly Subscription</value>
+      <webElementGuid>d457a133-90d4-4f85-9273-440302ad84ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d3rdaizcexbrrs.cloudfront.net/images/priceAssets/originalPrice/Web_Monthly_Clicked5.png</value>
+      <webElementGuid>7cdc1599-3b52-4bfb-8974-6596b45d04d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-background&quot;]/div[@class=&quot;credit-card-screen row&quot;]/div[@class=&quot;plans-section col&quot;]/div[1]/div[@class=&quot;planImages&quot;]/img[2]</value>
+      <webElementGuid>dfaa341c-bc83-46ca-a275-c2ad525d313b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div[2]/img[2]</value>
+      <webElementGuid>864f37f7-d6c7-42a8-bf1f-6e588c7fba35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Monthly Subscription']</value>
+      <webElementGuid>4861ac53-2f05-4da7-ad96-95e3f267d333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[2]</value>
+      <webElementGuid>903b5610-3a1a-4f4f-809a-4f434f0c2b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Monthly Subscription' and @src = 'https://d3rdaizcexbrrs.cloudfront.net/images/priceAssets/originalPrice/Web_Monthly_Clicked5.png']</value>
+      <webElementGuid>eb575aae-55a7-42c0-beae-96f9c0163313</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

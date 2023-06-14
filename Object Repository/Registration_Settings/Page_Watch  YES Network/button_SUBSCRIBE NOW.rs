@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SUBSCRIBE NOW</name>
+   <tag></tag>
+   <elementGuidId>a7f86995-5a14-4b3d-8c60-56a20dc0b346</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.IOS.primary__button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[2]/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7d6dd17f-a18d-4b80-b3a3-6cce76176262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>IOS primary__button</value>
+      <webElementGuid>cf363115-f79a-44f6-8c91-afe90654433c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SUBSCRIBE NOW</value>
+      <webElementGuid>adcce3ac-9923-4d7d-aa16-4a3a5c418fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;landing_page&quot;]/div[@class=&quot;login_section&quot;]/div[@class=&quot;subscribe_section&quot;]/div[3]/button[@class=&quot;IOS primary__button&quot;]</value>
+      <webElementGuid>440fded8-a810-4d0d-a6d0-f8ed70438ebc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[2]/div[3]/button</value>
+      <webElementGuid>275e27bd-bb90-42e8-80a9-4c8512584985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Introductory offer. Subject to territorial restrictions.'])[1]/following::button[1]</value>
+      <webElementGuid>92fa2027-2617-4737-b5be-77141bafe440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe now for just $239.99/yr or $24.99/mo'])[1]/following::button[1]</value>
+      <webElementGuid>35e58e36-6d45-4d57-8b8a-2931e09fdf23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SUBSCRIBE NOW']/parent::*</value>
+      <webElementGuid>5ec07244-37bf-43e5-a1c7-df74381f6913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>08da1c71-aae1-4ef0-9bd5-e1086ec21b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'SUBSCRIBE NOW' or . = 'SUBSCRIBE NOW')]</value>
+      <webElementGuid>438e7e06-396f-47a3-b058-ef74356b502f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

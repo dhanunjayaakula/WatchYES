@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SUBSCRIBE NOW</name>
+   <tag></tag>
+   <elementGuidId>be4c06ad-08b9-44dd-b2b8-632e1355aebe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.IOS.primary__button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e9260752-32ba-48f7-a782-854e9f061518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>IOS primary__button</value>
+      <webElementGuid>5ce33ae8-c4a0-406a-a886-aedc376192d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SUBSCRIBE NOW</value>
+      <webElementGuid>9915f0e5-bc31-4d5d-8a75-bcbccdc6fe0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;landing_page&quot;]/div[@class=&quot;login_section&quot;]/div[@class=&quot;subscribe_section&quot;]/div[3]/button[@class=&quot;IOS primary__button&quot;]</value>
+      <webElementGuid>61bfaa27-6eec-473f-a307-07b624482704</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[3]/button</value>
+      <webElementGuid>1188ec97-3812-4702-b815-3547dde33c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Introductory offer. Subject to territorial restrictions.'])[1]/following::button[1]</value>
+      <webElementGuid>70148d69-5060-4509-b84f-569281f6b7e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe now for just $239.99/yr or $24.99/mo'])[1]/following::button[1]</value>
+      <webElementGuid>7adde9a5-8ae5-4b4a-99f6-fb02c9880c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SUBSCRIBE NOW']/parent::*</value>
+      <webElementGuid>5b353bad-4ca6-4e8f-8c7c-bb65639c5423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>734132be-07db-453e-bc40-d12d5bcce181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'SUBSCRIBE NOW' or . = 'SUBSCRIBE NOW')]</value>
+      <webElementGuid>61c6d667-226c-490d-8a1d-7fdf74b984f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

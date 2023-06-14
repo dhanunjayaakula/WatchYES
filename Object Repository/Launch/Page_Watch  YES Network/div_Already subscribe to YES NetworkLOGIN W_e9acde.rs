@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Already subscribe to YES NetworkLOGIN W_e9acde</name>
+   <tag></tag>
+   <elementGuidId>d740b10e-11cd-447c-96d7-a6e700c708b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.landing_page</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e61b9bb-e238-4636-83bc-a41ec295848f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>landing_page</value>
+      <webElementGuid>d1e2b29a-d48f-4771-96a4-527bc0e00180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Already subscribe to YES Network?LOGIN WITH TV PROVIDERLOGIN WITH YES APP ACCOUNTSubscribe now for just $239.99/yr or $24.99/moIntroductory offer. Subject to territorial restrictions.SUBSCRIBE NOW</value>
+      <webElementGuid>3266a1a1-f76f-43ce-8539-86e9485df697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;landing_page&quot;]</value>
+      <webElementGuid>805d3ee3-caf4-4ead-a400-8b3dfed3d8e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]</value>
+      <webElementGuid>96c977db-f537-40c1-97a4-3b9bd9d7bdd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>2f6ef3dd-fd52-44a4-aeee-fc9a5b5cf323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Already subscribe to YES Network?LOGIN WITH TV PROVIDERLOGIN WITH YES APP ACCOUNTSubscribe now for just $239.99/yr or $24.99/moIntroductory offer. Subject to territorial restrictions.SUBSCRIBE NOW' or . = 'Already subscribe to YES Network?LOGIN WITH TV PROVIDERLOGIN WITH YES APP ACCOUNTSubscribe now for just $239.99/yr or $24.99/moIntroductory offer. Subject to territorial restrictions.SUBSCRIBE NOW')]</value>
+      <webElementGuid>5c9140d8-c5cd-468f-9b3f-e3cd61330fb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_NOT INTERESTED</name>
+   <tag></tag>
+   <elementGuidId>dcaa1cfe-2533-45ff-9921-3aaeaec924ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.payment-skip__link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>647d8b87-cc33-436a-aa6f-f1f9b44b201b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-skip__link</value>
+      <webElementGuid>1a182a40-bb55-4a65-b010-84fa4fef0dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NOT INTERESTED</value>
+      <webElementGuid>0827ab2f-111a-49b7-90d5-dfd886da0361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-background&quot;]/div[@class=&quot;credit-card-screen row&quot;]/div[@class=&quot;payment-section col&quot;]/div[@class=&quot;payment-skip__div&quot;]/button[@class=&quot;payment-skip__link&quot;]</value>
+      <webElementGuid>813cea40-90bf-4804-a9c4-13bc66f4f913</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div[3]/div/button</value>
+      <webElementGuid>b9242fd4-f4fb-418b-8d98-5ef0261dbf71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch Parties to enjoy the games with friends'])[1]/following::button[1]</value>
+      <webElementGuid>6e1026ef-b5da-4205-85d5-7820a1f0980a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live enhanced stats in real time'])[1]/following::button[1]</value>
+      <webElementGuid>2c1eb88c-aef5-475f-95b8-c1b346d5363e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NOT INTERESTED']/parent::*</value>
+      <webElementGuid>2c338732-c591-4193-a3fd-ece6f60733c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>8b2a9ed1-c3d4-41c9-8324-ccca62d4ad4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'NOT INTERESTED' or . = 'NOT INTERESTED')]</value>
+      <webElementGuid>bb44ac0d-5468-43d8-a14e-c0aeff27fde6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

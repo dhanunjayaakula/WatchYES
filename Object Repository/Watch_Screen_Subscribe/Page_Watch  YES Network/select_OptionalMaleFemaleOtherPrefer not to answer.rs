@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_OptionalMaleFemaleOtherPrefer not to answer</name>
+   <tag></tag>
+   <elementGuidId>decb6f94-e302-4f2e-bbb9-c393c9a44f5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;gender&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='gender']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>66a1edb0-0216-426c-9f91-e1c859c3cfe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>gender</value>
+      <webElementGuid>9f60254b-f343-4fe9-b720-b9e7366beed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control gender-dropdown</value>
+      <webElementGuid>8f551758-a4d2-45a3-b949-e35e71c43857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OptionalMaleFemaleOtherPrefer not to answer</value>
+      <webElementGuid>16d26c22-73c7-4637-8441-388bea70c7a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-background&quot;]/div[3]/div[@class=&quot;auth__card&quot;]/div[@class=&quot;auth__card-body&quot;]/form[@class=&quot;register&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control gender-dropdown&quot;]</value>
+      <webElementGuid>a48830c0-3acc-411b-93ed-78319949591b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='gender']</value>
+      <webElementGuid>dce1b6ff-5cea-4aeb-9b9a-8a9b8fa0c680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/form/div[4]/div[2]/div/select</value>
+      <webElementGuid>6d2b6add-deea-4f8a-be54-d71104b1b342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(optional)'])[1]/following::select[1]</value>
+      <webElementGuid>7970ecda-c28b-48b3-b427-057d596a7e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Never miss a moment! Share your email to receive our newsletter and updates.'])[1]/preceding::select[1]</value>
+      <webElementGuid>54ec2f83-0636-4cc7-aeff-13fa6a100523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>fa749224-f357-4d45-8b5f-2cc710b367f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'gender' and (text() = 'OptionalMaleFemaleOtherPrefer not to answer' or . = 'OptionalMaleFemaleOtherPrefer not to answer')]</value>
+      <webElementGuid>691c91c8-6cf7-45a5-be5d-f0c07252d611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

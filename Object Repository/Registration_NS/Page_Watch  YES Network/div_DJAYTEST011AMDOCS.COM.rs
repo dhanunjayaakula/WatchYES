@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DJAYTEST011AMDOCS.COM</name>
+   <tag></tag>
+   <elementGuidId>c7357f13-5f25-4692-9b6c-99db9d64a826</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div/div/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40bc72a0-f18e-4d81-967c-63e7650ec2f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> account--email pts-n-db-16 text-center</value>
+      <webElementGuid>b1913e36-664e-4873-8526-a0e97503f356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DJAY+TEST011@AMDOCS.COM</value>
+      <webElementGuid>af61a607-b4f5-43fd-b6c8-84a324208c8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-background background-light&quot;]/div[3]/div[@class=&quot;auth__card&quot;]/div[@class=&quot;auth__card-body&quot;]/div[@class=&quot;account--settings__main&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;account card&quot;]/div[@class=&quot;account--body  card-body&quot;]/div[@class=&quot;account--email pts-n-db-16 text-center&quot;]</value>
+      <webElementGuid>4212297d-1ba1-48da-9917-4343ef679997</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/div/div/div/div[3]</value>
+      <webElementGuid>39a4e8ee-cc4d-4c3c-8d4d-8bf5f076ca61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Djay'])[1]/following::div[1]</value>
+      <webElementGuid>5ebdd5ea-ee7a-4d2b-8ebb-99adf9646270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCOUNT &amp; SETTINGS'])[1]/following::div[11]</value>
+      <webElementGuid>551600dd-0d15-4b5e-921e-fddd4405b79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROFILE'])[1]/preceding::div[1]</value>
+      <webElementGuid>a150a3ba-36bd-4441-9a19-b208fc69f482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe Now'])[1]/preceding::div[2]</value>
+      <webElementGuid>2f8221bd-70b3-4dbe-8bc1-ef699abc6511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DJAY+TEST011@AMDOCS.COM']/parent::*</value>
+      <webElementGuid>b5a74f0e-18bb-4b77-8e19-b5c580b93520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[3]</value>
+      <webElementGuid>f40c0e79-16cf-4a57-86f6-bbc97de8cdd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DJAY+TEST011@AMDOCS.COM' or . = 'DJAY+TEST011@AMDOCS.COM')]</value>
+      <webElementGuid>c6ac7b0e-213b-43ab-bd36-ff0511a33f48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

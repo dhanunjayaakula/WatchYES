@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>b2bd7588-e795-42cd-abfb-56354065faed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>82e6806f-84bb-40fe-9647-c4c867bf659a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#FFFFFF</value>
+      <webElementGuid>f6cd47ab-f702-4b22-a8cd-22cf9541ceb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M22,11H8.275l6.3-5.6L13,4,4,12l9,8,1.575-1.4L8.275,13H22Z</value>
+      <webElementGuid>c726e221-5130-42b4-9cc4-3306736f506e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-background background-light&quot;]/div[@class=&quot;header long-text&quot;]/div[@class=&quot;back-section&quot;]/button[1]/div[1]/svg[1]/path[1]</value>
+      <webElementGuid>4f6b3d04-5293-4525-9936-e88a304ed409</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

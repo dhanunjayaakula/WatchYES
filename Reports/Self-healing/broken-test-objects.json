@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Registration_Subscribe/Page_Watch  YES Network/path_1",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "path",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Registration_Subscribe/Page_Watch  YES Network/path_1_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Watch_Screen_Subscribe/Page_Watch  YES Network/button_SUBSCRIBE NOW",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div[2]/div/div[2]/div[3]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027SUBSCRIBE NOW\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Watch_Screen_Subscribe/Page_Watch  YES Network/button_SUBSCRIBE NOW_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Registration_Settings/Page_Watch  YES Network/button_NOT INTERESTED",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div[3]/div[3]/div/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Registration_Settings/Page_Watch  YES Network/button_NOT INTERESTED_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Registration_Settings/Page_Watch  YES Network/svg",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Back\u0027])[1]//*[name()\u003d\u0027svg\u0027][1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "svg",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Registration_Settings/Page_Watch  YES Network/svg_CSS.png"
+    }
+  ]
+}

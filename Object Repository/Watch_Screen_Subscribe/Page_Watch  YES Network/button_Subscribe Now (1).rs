@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Subscribe Now (1)</name>
+   <tag></tag>
+   <elementGuidId>8543867f-c2e1-4990-bc9f-2d3010555f69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.placeOrder_block.mb-3 > button.MuiButtonBase-root.MuiButton-root.MuiButton-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7be03c1d-7703-44ab-b980-c78ca03882f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-text</value>
+      <webElementGuid>8ec5390b-886b-4397-8a44-b07249489177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d0e534ec-3c9c-4c69-9720-10afc5cdcce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>ccbcfb1e-9edd-43d5-a47b-c18ec712b591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Subscribe Now</value>
+      <webElementGuid>f63318e9-2540-4fa0-99c0-287498b5c5cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrap h-100&quot;]/div[@class=&quot;checkout_wrapper&quot;]/div[@class=&quot;MuiGrid-root checkout_container py-2 MuiGrid-container MuiGrid-justify-content-xs-center&quot;]/div[@class=&quot;MuiGrid-root paymentMethod_inner&quot;]/div[@class=&quot;jss1&quot;]/form[1]/div[@class=&quot;MuiGrid-root placeOrder_block mb-3&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text&quot;]</value>
+      <webElementGuid>d00823b4-b165-4f7c-afc6-3cbbf6435d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Watch_Screen_Subscribe/Page_Watch  YES Network/iframe</value>
+      <webElementGuid>03f776bf-13f4-4779-bf19-4b08d0337def</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>6322f7ef-a49d-4fd2-9a55-f2008325425e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/form/div[4]/button</value>
+      <webElementGuid>fdc66381-bd18-4ad6-9449-8b1f55f89def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::button[1]</value>
+      <webElementGuid>1ece2b4f-2066-4d03-b6b7-d8a4f031f966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/following::button[1]</value>
+      <webElementGuid>916d9b2a-663a-4228-9cfb-b1b25b6bb00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>6e65b309-5f4e-4251-8811-b3c996dad2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Subscribe Now' or . = 'Subscribe Now')]</value>
+      <webElementGuid>b40f2457-fde3-4232-9a31-c6da44e8ad52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

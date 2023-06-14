@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MANAGE SUBSCRIPTION (1)</name>
+   <tag></tag>
+   <elementGuidId>d3904f8b-e5f1-4559-9304-c53792e27151</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.manage-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2aafbabb-102b-4387-bbf2-33bf0a67bffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>manage-title</value>
+      <webElementGuid>8c8660d1-09c7-4a97-9813-9a9ec92713ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MANAGE SUBSCRIPTION</value>
+      <webElementGuid>3d3e7845-1a06-4a3d-b3b1-57b18c5debd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-background background-light&quot;]/div[2]/div[@class=&quot;auth__card&quot;]/div[@class=&quot;auth__card-body&quot;]/div[1]/div[@class=&quot;manage-title&quot;]</value>
+      <webElementGuid>5853e43d-93fe-41b7-ade5-1f69e41566c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div</value>
+      <webElementGuid>f2a9b9b5-ca1d-4b0b-b48f-5b00643c90cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account &amp; Settings'])[1]/following::div[5]</value>
+      <webElementGuid>777fcff2-e0f7-4bed-9225-142d892ce7db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHANGE PLAN'])[1]/preceding::div[4]</value>
+      <webElementGuid>2e7c8f21-9b58-44b2-ac9a-1fae475a8a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UPDATE CREDIT CARD'])[1]/preceding::div[7]</value>
+      <webElementGuid>b552d0ba-861a-4f6a-8611-10facf646156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MANAGE SUBSCRIPTION']/parent::*</value>
+      <webElementGuid>d0d81960-8ffd-4d88-99a5-4ca59620ad78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>dea5634d-eedb-4545-8dc4-a512c34d12e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' MANAGE SUBSCRIPTION' or . = ' MANAGE SUBSCRIPTION')]</value>
+      <webElementGuid>b90175b0-8afd-4985-9a4a-6380171142b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SUBSCRIBE NOW</name>
+   <tag></tag>
+   <elementGuidId>4be38b94-ae08-4b32-83bb-b52924c5b0a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.primary__button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ee11538d-f54a-4348-805f-570f1f72d506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primary__button</value>
+      <webElementGuid>0abd0c42-f3a3-44ec-ac5c-bafa8054a8e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SUBSCRIBE NOW</value>
+      <webElementGuid>a2fd21e0-5131-4311-b12b-6f09d425c3b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;watch-page&quot;]/div[@class=&quot;player-container d-flex flex-column&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;pb-5 pb-md-0 height-fit-content col-md-12&quot;]/div[@class=&quot;error-screen video-mode&quot;]/div[@class=&quot;error-screen_title&quot;]/button[@class=&quot;primary__button&quot;]</value>
+      <webElementGuid>9a80ac59-9582-4d89-bb85-415f2a5cb9af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/button</value>
+      <webElementGuid>9e58fdc2-e8be-487d-a485-75aa78cb8e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Now'])[1]/following::button[1]</value>
+      <webElementGuid>c438f292-1250-45f4-9120-c439965fe7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WNBA Basketball'])[1]/preceding::button[1]</value>
+      <webElementGuid>6aca5666-528d-4885-a99c-ebeabcb2bfea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MORE VIDEO'])[1]/preceding::button[1]</value>
+      <webElementGuid>b7942e95-43bf-4455-9663-77f1ea193c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SUBSCRIBE NOW']/parent::*</value>
+      <webElementGuid>ee7513a3-6449-4610-80d6-31973e50c957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>b998da2d-bffc-407d-8dc1-914fe013223f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'SUBSCRIBE NOW' or . = 'SUBSCRIBE NOW')]</value>
+      <webElementGuid>a9528cca-b0a9-4221-8f7f-3f70dbef5fd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

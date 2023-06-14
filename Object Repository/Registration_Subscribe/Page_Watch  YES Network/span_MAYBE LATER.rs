@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MAYBE LATER</name>
+   <tag></tag>
+   <elementGuidId>c3cc9edb-df20-4c26-8995-afbcb67a4877</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.link-blue.pts-b-db-20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div/div[2]/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a25232b-38f7-487b-888a-1cfd22ab243e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-blue pts-b-db-20</value>
+      <webElementGuid>3881e807-7cb9-4095-8925-f4f5365efb7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MAYBE LATER</value>
+      <webElementGuid>9fa658ef-5197-4428-968c-379a165068d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-background&quot;]/div[3]/div[@class=&quot;auth__card&quot;]/div[@class=&quot;auth__card-body&quot;]/div[1]/div[@class=&quot;onboarding-fav-players col-md-14&quot;]/div[@class=&quot;btn-done-section-onboarding d-flex justify-content-around align-items-center flex-column&quot;]/span[@class=&quot;link-blue pts-b-db-20&quot;]</value>
+      <webElementGuid>90968562-d774-49e1-869e-8044a21b4af3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div[2]/div[3]/span</value>
+      <webElementGuid>8673d5d3-04ac-420b-9622-a14164822748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LET’S GO'])[1]/following::span[1]</value>
+      <webElementGuid>5a61791c-2941-4bdc-a9f6-fa12fb886152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liberty'])[1]/following::span[1]</value>
+      <webElementGuid>a68fd808-4dff-46ab-8e43-a5c364396c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MAYBE LATER']/parent::*</value>
+      <webElementGuid>7d158412-f680-4b78-aac3-240d0bc0282f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>8ede940d-cfe0-47a4-b8c2-bc3fdfbcc106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'MAYBE LATER' or . = 'MAYBE LATER')]</value>
+      <webElementGuid>c2b781cd-5124-429b-81f3-a743008dc8af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
