@@ -17,3 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://qa.watchyesnetwork.com/')
+
+WebUI.click(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/button_DISMISS'))
+
+WebUI.click(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/button_LOGIN WITH YES APP ACCOUNT'))
+
+WebUI.setText(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/input_Email_email'), 'djay+stage@amdocs.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/input_Password_password'), 
+    'RigbBhfdqOBGNlJIWM1ClA==')
+
+WebUI.sendKeys(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/input_Password_password'), Keys.chord(
+        Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/img'))
+
+WebUI.click(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/div_My Favorite Teams'))
+
+WebUI.click(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/button_YOUR FAVORITE TEAMS_Brooklyn-Nets'))
+
+WebUI.click(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/button_UPDATE'))
+
+WebUI.click(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/div_My Favorite Teams'))
+
+WebUI.click(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/svg'))
+
+WebUI.click(findTestObject('Object Repository/Team_update/Page_Watch  YES Network/div_Log Out'))
+
+WebUI.closeBrowser()
+
