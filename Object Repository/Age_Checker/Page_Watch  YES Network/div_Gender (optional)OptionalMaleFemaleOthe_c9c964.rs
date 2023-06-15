@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gender (optional)OptionalMaleFemaleOthe_c9c964</name>
+   <tag></tag>
+   <elementGuidId>1a5dba48-5cb9-4451-bab8-521b8dee6cf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/form/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>89184361-11b1-4711-b655-da21ef53ab42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-6</value>
+      <webElementGuid>180018c8-4113-465c-afe6-9b8bfd0fb6d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gender (optional)OptionalMaleFemaleOtherPrefer not to answer</value>
+      <webElementGuid>73c85cbf-eb35-4520-8a13-6293b8132f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page-background&quot;]/div[3]/div[@class=&quot;auth__card&quot;]/div[@class=&quot;auth__card-body&quot;]/form[@class=&quot;register&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]</value>
+      <webElementGuid>aeb3a79e-87cf-4b61-a327-c806ceb0be3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/form/div[4]/div[2]</value>
+      <webElementGuid>dcb803ef-2f01-4876-86b0-0d474080117a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/following::div[1]</value>
+      <webElementGuid>53859b21-5616-42ea-ab4d-456867c4fdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[6]</value>
+      <webElementGuid>4fdb7525-76b1-47bc-b946-45a360bf02f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>c0f79113-3357-4350-a1b8-7bab07c55c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Gender (optional)OptionalMaleFemaleOtherPrefer not to answer' or . = 'Gender (optional)OptionalMaleFemaleOtherPrefer not to answer')]</value>
+      <webElementGuid>a6726087-f38a-405b-91e9-910dbe412534</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
